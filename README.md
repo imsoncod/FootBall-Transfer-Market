@@ -6,4 +6,4 @@
 * #### Insert Recode
   * #### Insert at least 10 records per table
 * #### Check information in all tables
-* #### 20 Query Statements Using SQL
+* #### 20 query Statements, question and answer using SQL
