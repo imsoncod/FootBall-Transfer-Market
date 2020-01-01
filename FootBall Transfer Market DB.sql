@@ -339,8 +339,7 @@ WHEN 4 THEN '중앙수비수'
 WHEN 7 THEN '키플레이어'
 WHEN 9 THEN '스트라이커'
 WHEN 10 THEN '에이스'
-ELSE '자유'
-END "역할"
+ELSE '자유' END "역할"
 FROM 팀 INNER JOIN 선수 ON 팀.팀명 = 선수.팀명 INNER JOIN 리그 ON 팀.리그명 = 리그.리그명
 WHERE 팀.리그명 = '프리미어리그' AND 키>=178;
 
