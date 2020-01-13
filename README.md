@@ -3,7 +3,7 @@
 ## Developer
 #### imsoncod
 ## Development period
-#### About 1 weeks
+#### About 2 weeks
 ## Language used
 #### Only SQL
 ## Development tools
