@@ -12,6 +12,6 @@
 * #### Create table
   * #### Create 6 tables (감독, 리그, 팀, 선수, 매물, 주문)
 * #### Insert Recode
-  * #### Insert at least 10 records per table
+  * #### Insert more than 10 records per table
 * #### Check information in all tables
 * #### 20 query Statements, question and answer using SQL
